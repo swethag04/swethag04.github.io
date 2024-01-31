@@ -1,6 +1,7 @@
 # Data Scientist
 
-### Work Experience
+## Work Experience
+
 Data Scientist @ Instacart, Toronto
 -
 -
